@@ -25,4 +25,4 @@ yarn
 
 ## Study Log
 
-> 2022/06/17 video timecode : FROM `13:40` TO `00:00`  
+> 2022/06/17 video timecode : FROM `13:40` TO `14:15`  
